@@ -1,0 +1,22 @@
+.form-radio .btn-default.active {
+	background: #E94D1C;
+	color: #FFF;
+	border-color: #E94D1C;
+}
+
+.header-background-color {
+	  background: #e6400c;
+}
+
+.service-item {
+	background: rgba(255, 0, 0, 0.05);
+	padding: 10px;
+	background-size: cover;
+	position: relative;
+	border: 1px solid #FFF;
+}
+
+.service-item:hover {
+	border: 1px solid #E94D1C;	
+	cursor: pointer;
+}
